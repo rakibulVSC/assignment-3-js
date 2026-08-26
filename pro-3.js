@@ -1,0 +1,3 @@
+function countHashtags(caption) {
+    // Write your code here…
+}
